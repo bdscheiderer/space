@@ -1,4 +1,7 @@
-''' space war type game '''
+''' space war type game     
+    Credit to Youtuber @programmingwithnick
+    https://www.youtube.com/watch?v=PFMoo_dvhyw
+'''
 
 import sys, random
 import pygame
